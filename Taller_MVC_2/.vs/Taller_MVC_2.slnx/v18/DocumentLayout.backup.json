@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_2\\Taller_MVC_2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF06DC-D40B-4B45-AA31-D8E6A5D4C3A8}|CapaModelo_MVC2\\CapaModelo_MVC2.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_2\\taller_mvc_2\\capamodelo_mvc2\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF06DC-D40B-4B45-AA31-D8E6A5D4C3A8}|CapaModelo_MVC2\\CapaModelo_MVC2.csproj|solutionrelative:capamodelo_mvc2\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +59,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_2\\Taller_MVC_2\\CapaModelo_MVC2\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaModelo_MVC2\\Conexion.cs",
+              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_2\\Taller_MVC_2\\CapaModelo_MVC2\\Conexion.cs",
+              "RelativeToolTip": "CapaModelo_MVC2\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T00:47:04.672Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,6 @@
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_2\Taller_MVC_2\CapaModelo_MVC2\bin\Debug\CapaModelo_MVC2.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_2\Taller_MVC_2\CapaModelo_MVC2\bin\Debug\CapaModelo_MVC2.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_2\Taller_MVC_2\CapaModelo_MVC2\obj\Debug\CapaModelo_MVC2.csproj.AssemblyReference.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_2\Taller_MVC_2\CapaModelo_MVC2\obj\Debug\CapaModelo_MVC2.csproj.CoreCompileInputs.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_2\Taller_MVC_2\CapaModelo_MVC2\obj\Debug\CapaModelo_MVC2.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_2\Taller_MVC_2\CapaModelo_MVC2\obj\Debug\CapaModelo_MVC2.pdb
